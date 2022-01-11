@@ -22,8 +22,8 @@ spring:
     livereload:
       enabled: true
     restart:
-      enabled: true      
- 
+      enabled: true
+            
   jpa:
     open-in-view: true
     hibernate:
